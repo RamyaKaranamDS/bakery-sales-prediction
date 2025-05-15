@@ -105,7 +105,7 @@ Random Forest Regressor is selected as the final model due to:
 
 ## 👩‍💻 Author
 
-- **Name**: [Your Name]
+- **Name**: [Ramya Karanam]
 - **Role**: ML Developer (Assignment Submission)
 
 ---
